@@ -1,0 +1,1 @@
+npx concurrently "cd frontend && npm run dev" "cd backend && npm run dev" "cd backend && npx prisma studio" -n "frontend |,backend  |,prisma   |" 

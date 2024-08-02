@@ -1,0 +1,13 @@
+{
+  "name": "pedigree",
+  "author": "Anesu Kafesu",
+  "scripts": {
+    "build": "bash ./build.sh",
+    "start": "bash ./start.sh",
+    "dev": "bash ./dev.sh"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "ts-node": "^10.9.2"
+  }
+}
