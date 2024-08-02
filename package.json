@@ -1,6 +1,6 @@
 {
   "name": "pedigree",
-  "author": "Anesu Kafesu",
+  "author": "Emmanuel Nyadongo",
   "scripts": {
     "build": "bash ./build.sh",
     "start": "bash ./start.sh",
